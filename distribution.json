@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1944012,
             "MD5": "54ae672be359aec0a36411e60885634c",
-            "url": "https://felixcraft-official.github.io/repo/lib/net/fabricmc/fabric-loader/0.18.0/fabric-loader-0.18.0.jar"
+            "url": "https://felixcraft-official.github.io/LauncherInstance/repo/lib/net/fabricmc/fabric-loader/0.18.0/fabric-loader-0.18.0.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "5ed4697995c629ddb56d5b2dd94de7c8",
-                "url": "https://felixcraft-official.github.io/repo/versions/1.20.1-fabric-0.18.0/1.20.1-fabric-0.18.0.json"
+                "url": "https://felixcraft-official.github.io/LauncherInstance/repo/versions/1.20.1-fabric-0.18.0/1.20.1-fabric-0.18.0.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "https://felixcraft-official.github.io/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "https://felixcraft-official.github.io/LauncherInstance/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "https://felixcraft-official.github.io/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "https://felixcraft-official.github.io/LauncherInstance/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "https://felixcraft-official.github.io/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "https://felixcraft-official.github.io/LauncherInstance/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "https://felixcraft-official.github.io/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "https://felixcraft-official.github.io/LauncherInstance/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "https://felixcraft-official.github.io/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "https://felixcraft-official.github.io/LauncherInstance/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1504519,
                 "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "https://felixcraft-official.github.io/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+                "url": "https://felixcraft-official.github.io/LauncherInstance/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://felixcraft-official.github.io/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://felixcraft-official.github.io/LauncherInstance/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
