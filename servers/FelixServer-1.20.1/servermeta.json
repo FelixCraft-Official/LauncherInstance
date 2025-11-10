@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "FelixServer (Minecraft 1.20.1)",
-    "description": "FelixServer Running Minecraft 1.20.1 (Forge v47.4.10)",
+    "description": "FelixServer Running Minecraft 1.20.1 (Fabric v0.18.0)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
@@ -14,8 +14,8 @@
     "mainServer": false,
     "autoconnect": false
   },
-  "forge": {
-    "version": "47.4.10"
+  "fabric": {
+    "version": "0.18.0"
   },
   "untrackedFiles": []
 }
